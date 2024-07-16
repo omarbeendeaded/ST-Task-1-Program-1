@@ -1,4 +1,4 @@
-##Compilation Commands
+## Compilation Commands
 
 
 gcc -c helper.c
@@ -10,7 +10,7 @@ gcc program.o -o out
 ./out
 
 
-##Output
+## Output
 
 First increment: 1
 
